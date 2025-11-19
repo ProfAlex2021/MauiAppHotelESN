@@ -81,3 +81,4 @@ Repositório do projeto AppHotel. O AppHotel faz um panorama sobre elementos de 
 ## CURTIU MEU TRABALHO?
 Você pode me ajudar com um pix para tiago@tiago.blog.br 🍻
 
+Atualizado em 2025
